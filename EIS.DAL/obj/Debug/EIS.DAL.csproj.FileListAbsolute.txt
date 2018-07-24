@@ -1,0 +1,24 @@
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.DAL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.xml
+F:\Practice\AngularJS Project\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.csprojResolveAssemblyReference.cache
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.DAL\obj\Debug\EIS.DAL.pdb
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EIS.DAL.dll
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EIS.DAL.pdb
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EIS.BOL.dll
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EIS.BOL.pdb
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\obj\Debug\EIS.DAL.csprojAssemblyReference.cache
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\obj\Debug\EIS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\obj\Debug\EIS.DAL.csproj.CopyComplete
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\obj\Debug\EIS.DAL.dll
+C:\Users\pgourdet\Documents\EIS\EIS.DAL\obj\Debug\EIS.DAL.pdb

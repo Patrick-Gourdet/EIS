@@ -1,0 +1,10 @@
+F:\Practice\AngularJS Project\EIS\EIS.BOL\bin\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BOL\bin\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.BOL\obj\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BOL\obj\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.BOL\obj\Debug\EIS.BOL.csprojResolveAssemblyReference.cache
+C:\Users\pgourdet\Documents\EIS\EIS.BOL\bin\Debug\EIS.BOL.dll
+C:\Users\pgourdet\Documents\EIS\EIS.BOL\bin\Debug\EIS.BOL.pdb
+C:\Users\pgourdet\Documents\EIS\EIS.BOL\obj\Debug\EIS.BOL.csproj.CoreCompileInputs.cache
+C:\Users\pgourdet\Documents\EIS\EIS.BOL\obj\Debug\EIS.BOL.dll
+C:\Users\pgourdet\Documents\EIS\EIS.BOL\obj\Debug\EIS.BOL.pdb
